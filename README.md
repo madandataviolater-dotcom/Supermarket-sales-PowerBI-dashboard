@@ -2,7 +2,6 @@
 
 A single-page Power BI performance tracker for a supermarket chain with three city branches. Built on 1,000 invoices (Jan–Mar 2019) to monitor revenue, tax and quantity sold, and to break sales down by product line, city, gender and payment method with interactive slicers.
 
-🔗 **Live dashboard:** [View on NovyPro](NOVYPRO_LINK_HERE)
 📥 **Open locally:** download [`Dashboard/Dashboard_1.pbix`](Dashboard/Dashboard_1.pbix) and open it in Power BI Desktop (free).
 
 ![Supermarket Sales Dashboard](images/dashboard.png)
